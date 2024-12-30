@@ -54,7 +54,7 @@ To run this project, you need:
 1. Clone this repository to your local machine using [Git](https://git-scm.com/):
 
    ```bash
-   git clone https://github.com//culturally/CashApp.git
+   https://github.com/BigBoiiiiiii/cashapp-spoof.git
 
 2. Open the project in [Xcode](https://developer.apple.com/xcode/) (Xcode is only available on MacOS)
 3. Compile the project into an ipa
